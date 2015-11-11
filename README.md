@@ -3,3 +3,4 @@ Interface Msp430F47197 with SD card. Using FatFs - FAT file system module  R0.10
 
 ***I'm try connectting newest FatFs with my Project
 ***IDE: IAR Embedded Workbench
+*** It's verry simple. Run OK.
